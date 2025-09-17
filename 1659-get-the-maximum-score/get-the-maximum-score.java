@@ -30,7 +30,7 @@ class Solution {
 
         result += Math.max(sum1, sum2);
 
-        final int MOD = 1_000_000_007;
+        final int MOD = 1000000007;
         return (int) (result % MOD);
     }
 }
