@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/saurabh24thakur/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/saurabh24thakur/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/saurabh24thakur/leetcode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/saurabh24thakur/leetcode/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/saurabh24thakur/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/saurabh24thakur/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/saurabh24thakur/leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
