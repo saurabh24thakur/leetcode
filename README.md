@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/saurabh24thakur/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/saurabh24thakur/leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/saurabh24thakur/leetcode/tree/master/0509-fibonacci-number) |
@@ -109,5 +110,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/saurabh24thakur/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/saurabh24thakur/leetcode/tree/master/0125-valid-palindrome) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/saurabh24thakur/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
