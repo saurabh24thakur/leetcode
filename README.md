@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/saurabh24thakur/leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0189-rotate-array](https://github.com/saurabh24thakur/leetcode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/saurabh24thakur/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saurabh24thakur/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/saurabh24thakur/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/saurabh24thakur/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/saurabh24thakur/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/saurabh24thakur/leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/saurabh24thakur/leetcode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/saurabh24thakur/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/saurabh24thakur/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/saurabh24thakur/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/saurabh24thakur/leetcode/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
