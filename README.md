@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/saurabh24thakur/leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/saurabh24thakur/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saurabh24thakur/leetcode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/saurabh24thakur/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saurabh24thakur/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/saurabh24thakur/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/saurabh24thakur/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/saurabh24thakur/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/saurabh24thakur/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -140,10 +143,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saurabh24thakur/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/saurabh24thakur/leetcode/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saurabh24thakur/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saurabh24thakur/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saurabh24thakur/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
