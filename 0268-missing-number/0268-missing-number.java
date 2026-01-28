@@ -1,16 +1,22 @@
+import java.util.HashMap;
+
 class Solution {
     public int missingNumber(int[] nums) {
-        Arrays.sort(nums);
-        int max=nums[nums.length-1];
-        int min=0;
+       
+        HashMap<Integer, Integer> map = new HashMap<>();
 
-        for(int i=min;i<=max;i++){
-            if(nums[i]!=i){
+       
+        for (int i = 0; i < nums.length; i++) {
+            map.put(nums[i], 1);
+        }
+
+        
+        for (int i = 0; i <= nums.length; i++) {
+            if (!map.containsKey(i)) {
                 return i;
             }
         }
-
-        return max+1;
         
+        return -1;
     }
 }
