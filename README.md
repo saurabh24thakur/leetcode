@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/saurabh24thakur/leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/saurabh24thakur/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/saurabh24thakur/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saurabh24thakur/leetcode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/saurabh24thakur/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/saurabh24thakur/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/saurabh24thakur/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/saurabh24thakur/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/saurabh24thakur/leetcode/tree/master/0268-missing-number) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saurabh24thakur/leetcode/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/saurabh24thakur/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
