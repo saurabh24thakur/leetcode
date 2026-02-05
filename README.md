@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saurabh24thakur/leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/saurabh24thakur/leetcode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/saurabh24thakur/leetcode/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/saurabh24thakur/leetcode/tree/master/0051-n-queens) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saurabh24thakur/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saurabh24thakur/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/saurabh24thakur/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/saurabh24thakur/leetcode/tree/master/0169-majority-element) |
