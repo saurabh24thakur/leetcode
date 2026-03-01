@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/saurabh24thakur/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/saurabh24thakur/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/saurabh24thakur/leetcode/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/saurabh24thakur/leetcode/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/saurabh24thakur/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Backtracking
 |  |
@@ -248,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/saurabh24thakur/leetcode/tree/master/0062-unique-paths) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/saurabh24thakur/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
