@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/saurabh24thakur/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/saurabh24thakur/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/saurabh24thakur/leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/saurabh24thakur/leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/saurabh24thakur/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/saurabh24thakur/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/saurabh24thakur/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/saurabh24thakur/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/saurabh24thakur/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0205-isomorphic-strings](https://github.com/saurabh24thakur/leetcode/tree/master/0205-isomorphic-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/saurabh24thakur/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Backtracking
 |  |
