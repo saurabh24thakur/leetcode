@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saurabh24thakur/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/saurabh24thakur/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/saurabh24thakur/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/saurabh24thakur/leetcode/tree/master/0062-unique-paths) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saurabh24thakur/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/saurabh24thakur/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/saurabh24thakur/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/saurabh24thakur/leetcode/tree/master/0125-valid-palindrome) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saurabh24thakur/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/saurabh24thakur/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saurabh24thakur/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/saurabh24thakur/leetcode/tree/master/0022-generate-parentheses) |
