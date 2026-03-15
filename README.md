@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/saurabh24thakur/leetcode/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/saurabh24thakur/leetcode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/saurabh24thakur/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/saurabh24thakur/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/saurabh24thakur/leetcode/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/saurabh24thakur/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Simulation
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/saurabh24thakur/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/saurabh24thakur/leetcode/tree/master/0051-n-queens) |
+| [0090-subsets-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/saurabh24thakur/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
