@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/saurabh24thakur/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/saurabh24thakur/leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabh24thakur/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3790-smallest-all-ones-multiple](https://github.com/saurabh24thakur/leetcode/tree/master/3790-smallest-all-ones-multiple) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/saurabh24thakur/leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/saurabh24thakur/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/saurabh24thakur/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3790-smallest-all-ones-multiple](https://github.com/saurabh24thakur/leetcode/tree/master/3790-smallest-all-ones-multiple) |
 ## Two Pointers
 |  |
 | ------- |
