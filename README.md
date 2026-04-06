@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saurabh24thakur/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/saurabh24thakur/leetcode/tree/master/0389-find-the-difference) |
 | [0779-k-th-symbol-in-grammar](https://github.com/saurabh24thakur/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [1009-complement-of-base-10-integer](https://github.com/saurabh24thakur/leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Simulation
 |  |
 | ------- |
