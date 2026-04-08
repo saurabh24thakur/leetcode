@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/saurabh24thakur/leetcode/tree/master/0155-min-stack) |
 | [0933-number-of-recent-calls](https://github.com/saurabh24thakur/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -290,5 +291,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/saurabh24thakur/leetcode/tree/master/0155-min-stack) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saurabh24thakur/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
