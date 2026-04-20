@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/saurabh24thakur/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/saurabh24thakur/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/saurabh24thakur/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/saurabh24thakur/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/saurabh24thakur/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/saurabh24thakur/leetcode/tree/master/0053-maximum-subarray) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saurabh24thakur/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/saurabh24thakur/leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/saurabh24thakur/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/saurabh24thakur/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/saurabh24thakur/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/saurabh24thakur/leetcode/tree/master/0064-minimum-path-sum) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saurabh24thakur/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/saurabh24thakur/leetcode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/saurabh24thakur/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/saurabh24thakur/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/saurabh24thakur/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/saurabh24thakur/leetcode/tree/master/0141-linked-list-cycle) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/saurabh24thakur/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saurabh24thakur/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/saurabh24thakur/leetcode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/saurabh24thakur/leetcode/tree/master/0155-min-stack) |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/saurabh24thakur/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saurabh24thakur/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/saurabh24thakur/leetcode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0503-next-greater-element-ii) |
