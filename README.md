@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/saurabh24thakur/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/saurabh24thakur/leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/saurabh24thakur/leetcode/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/saurabh24thakur/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saurabh24thakur/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/saurabh24thakur/leetcode/tree/master/0085-maximal-rectangle) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/saurabh24thakur/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/saurabh24thakur/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/saurabh24thakur/leetcode/tree/master/0268-missing-number) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/saurabh24thakur/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/saurabh24thakur/leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/saurabh24thakur/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/saurabh24thakur/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Greedy
