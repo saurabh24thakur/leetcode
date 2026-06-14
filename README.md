@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/saurabh24thakur/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/saurabh24thakur/leetcode/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saurabh24thakur/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/saurabh24thakur/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saurabh24thakur/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saurabh24thakur/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saurabh24thakur/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/saurabh24thakur/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/saurabh24thakur/leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0518-coin-change-ii) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/saurabh24thakur/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Memoization
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/saurabh24thakur/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/saurabh24thakur/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/saurabh24thakur/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Number Theory
 |  |
 | ------- |
