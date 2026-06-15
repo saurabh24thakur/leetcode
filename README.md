@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/saurabh24thakur/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/saurabh24thakur/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/saurabh24thakur/leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/saurabh24thakur/leetcode/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/saurabh24thakur/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/saurabh24thakur/leetcode/tree/master/0509-fibonacci-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/saurabh24thakur/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/saurabh24thakur/leetcode/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/saurabh24thakur/leetcode/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/saurabh24thakur/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/saurabh24thakur/leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0518-coin-change-ii) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/saurabh24thakur/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saurabh24thakur/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/saurabh24thakur/leetcode/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/saurabh24thakur/leetcode/tree/master/0279-perfect-squares) |
 | [0841-keys-and-rooms](https://github.com/saurabh24thakur/leetcode/tree/master/0841-keys-and-rooms) |
 ## Graph Theory
 |  |
