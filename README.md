@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/saurabh24thakur/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/saurabh24thakur/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/saurabh24thakur/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/saurabh24thakur/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saurabh24thakur/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/saurabh24thakur/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/saurabh24thakur/leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/saurabh24thakur/leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/saurabh24thakur/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saurabh24thakur/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/saurabh24thakur/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/saurabh24thakur/leetcode/tree/master/0141-linked-list-cycle) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/saurabh24thakur/leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/saurabh24thakur/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saurabh24thakur/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saurabh24thakur/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0229-majority-element-ii) |
