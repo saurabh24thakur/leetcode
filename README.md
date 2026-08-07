@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saurabh24thakur/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saurabh24thakur/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/saurabh24thakur/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/saurabh24thakur/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/saurabh24thakur/leetcode/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0518-coin-change-ii) |
