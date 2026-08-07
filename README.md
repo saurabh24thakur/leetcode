@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/saurabh24thakur/leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/saurabh24thakur/leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saurabh24thakur/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/saurabh24thakur/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/saurabh24thakur/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/saurabh24thakur/leetcode/tree/master/0040-combination-sum-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/saurabh24thakur/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/saurabh24thakur/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saurabh24thakur/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saurabh24thakur/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/saurabh24thakur/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/saurabh24thakur/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/saurabh24thakur/leetcode/tree/master/0075-sort-colors) |
