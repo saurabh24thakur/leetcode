@@ -428,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/saurabh24thakur/leetcode/tree/master/0141-linked-list-cycle) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/saurabh24thakur/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
