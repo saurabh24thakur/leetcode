@@ -1,43 +1,29 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-    public int find(int[] in, int ele) {
-        for (int i = 0; i < in.length; i++) {
-            if (in[i] == ele) {
-                return i;
+    private int idx = 0;
+
+    public TreeNode solve(int[] preorder, int[] inorder, int s, int e){
+        if(s > e) return null;
+        int rootVal = preorder[idx];
+        int t = s;
+        for(int i = s; i <= e; i++){
+            if(inorder[i] == rootVal){
+                t = i;
+                break;
             }
         }
-        return -1;
+
+        idx++;
+
+        TreeNode root = new TreeNode(rootVal);
+        root.left = solve(preorder, inorder, s, t - 1);
+        root.right = solve(preorder, inorder, t + 1, e);
+
+        return root;
     }
 
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        TreeNode root = new TreeNode();
-        if (preorder.length == 0 || inorder.length == 0) {
-            return null;
-        }
-        root.val = preorder[0];
-        int idx = find(inorder, root.val);
-        root.left = buildTree(
-                Arrays.copyOfRange(preorder, 1, idx + 1),
-                Arrays.copyOfRange(inorder, 0, idx));
-
-        root.right = buildTree(
-                Arrays.copyOfRange(preorder, idx + 1, preorder.length),
-                Arrays.copyOfRange(inorder, idx + 1, inorder.length));
-
-        return root;
+        idx = 0;
+        int n = preorder.length;
+        return solve(preorder, inorder, 0, n - 1);
     }
 }
