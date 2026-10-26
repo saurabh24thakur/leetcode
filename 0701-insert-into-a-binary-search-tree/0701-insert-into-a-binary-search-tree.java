@@ -6,9 +6,17 @@ class Solution {
         }
 
         if (val < root.val) {
-            root.left = insertIntoBST(root.left, val);
+            if (root.left == null) {
+                root.left = new TreeNode(val);
+                return root;
+            }
+            insertIntoBST(root.left, val);
         } else {
-            root.right = insertIntoBST(root.right, val);
+            if (root.right == null) {
+                root.right = new TreeNode(val);
+                return root;
+            }
+            insertIntoBST(root.right, val);
         }
 
         return root;
