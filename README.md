@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/saurabh24thakur/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saurabh24thakur/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saurabh24thakur/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saurabh24thakur/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurabh24thakur/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saurabh24thakur/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurabh24thakur/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/saurabh24thakur/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saurabh24thakur/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/saurabh24thakur/leetcode/tree/master/0200-number-of-islands) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saurabh24thakur/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurabh24thakur/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saurabh24thakur/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/saurabh24thakur/leetcode/tree/master/0841-keys-and-rooms) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/saurabh24thakur/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saurabh24thakur/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saurabh24thakur/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saurabh24thakur/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurabh24thakur/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saurabh24thakur/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurabh24thakur/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -512,10 +515,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saurabh24thakur/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurabh24thakur/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saurabh24thakur/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saurabh24thakur/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## DP on Trees
 |  |
@@ -524,5 +529,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saurabh24thakur/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saurabh24thakur/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
